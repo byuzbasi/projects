@@ -1,0 +1,14 @@
+---
+title: "Projects"
+---
+
+## Funded Projects
+
+### TÜBİTAK 1001
+- [Project Page →](proj/tubitak-1001/index.qmd)
+
+### TÜBİTAK–DAAD
+- [Project Page →](proj/tubitak-daad/index.qmd)
+
+### TÜBİTAK 3005
+- [Project Page →](proj/tubitak-3005/index.qmd)

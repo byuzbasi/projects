@@ -1,0 +1,8 @@
+---
+title: "Outputs"
+---
+
+- Reports
+- Posters / slides
+- Data dictionary
+- Demos

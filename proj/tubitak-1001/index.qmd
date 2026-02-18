@@ -1,0 +1,19 @@
+---
+title: "Project (Template)"
+---
+
+## Key Information (6 items)
+1. **Project Code / Title:** 125F000 – Example Title
+2. **Duration:** 24 months (01.04.2026–01.04.2028)
+3. **Team (name–role–institution):**
+   - Prof. Dr. A — PI — University X
+   - Dr. B — Researcher — University Y
+4. **Publications:** Planned Q1 + conference
+5. **Code Repository:** https://github.com/USERNAME/REPO
+6. **Data Sharing:** Yes (OSF/Zenodo; anonymized/synthetic)
+
+## Sections
+- [Team](team.qmd)
+- [Publications](publications.qmd)
+- [Code & Data](code-data.qmd)
+- [Outputs](outputs.qmd)

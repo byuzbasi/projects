@@ -1,0 +1,6 @@
+---
+title: "Projects"
+---
+
+This is the dedicated projects site.  
+Go to **Projects** from the navbar.

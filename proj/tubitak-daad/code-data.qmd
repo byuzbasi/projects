@@ -1,0 +1,10 @@
+---
+title: "Code & Data"
+---
+
+## Code
+- GitHub: https://github.com/USERNAME/REPO
+
+## Data
+- Sharing: Yes/No (template)
+- Repository: OSF / Zenodo (template)

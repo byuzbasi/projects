@@ -1,0 +1,8 @@
+---
+title: "Team"
+---
+
+| Name | Role | Institution | ORCID | Contribution |
+|---|---|---|---|---|
+| Prof. Dr. A | PI | University X | 0000-0000-0000-0000 | Management, methodology |
+| Dr. B | Researcher | University Y | 0000-0000-0000-0000 | Analysis, software |

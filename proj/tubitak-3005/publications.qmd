@@ -1,0 +1,9 @@
+---
+title: "Publications"
+bibliography: references.bib
+---
+
+## Publications (template)
+- No publications yet.
+
+Example citation: [@srivastava2016]

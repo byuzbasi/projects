@@ -1,0 +1,240 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Project Page →\n\n\n\n\n\nProject Page →\n\n\n\n\n\nProject Page →"
+  },
+  {
+    "objectID": "projects.html#funded-projects",
+    "href": "projects.html#funded-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Project Page →\n\n\n\n\n\nProject Page →\n\n\n\n\n\nProject Page →"
+  },
+  {
+    "objectID": "proj/tubitak-daad/index.html",
+    "href": "proj/tubitak-daad/index.html",
+    "title": "Project (Template)",
+    "section": "",
+    "text": "Project Code / Title: 125F000 – Example Title\nDuration: 24 months (01.04.2026–01.04.2028)\nTeam (name–role–institution):\n\nProf. Dr. A — PI — University X\nDr. B — Researcher — University Y\n\nPublications: Planned Q1 + conference\nCode Repository: https://github.com/USERNAME/REPO\nData Sharing: Yes (OSF/Zenodo; anonymized/synthetic)"
+  },
+  {
+    "objectID": "proj/tubitak-daad/index.html#key-information-6-items",
+    "href": "proj/tubitak-daad/index.html#key-information-6-items",
+    "title": "Project (Template)",
+    "section": "",
+    "text": "Project Code / Title: 125F000 – Example Title\nDuration: 24 months (01.04.2026–01.04.2028)\nTeam (name–role–institution):\n\nProf. Dr. A — PI — University X\nDr. B — Researcher — University Y\n\nPublications: Planned Q1 + conference\nCode Repository: https://github.com/USERNAME/REPO\nData Sharing: Yes (OSF/Zenodo; anonymized/synthetic)"
+  },
+  {
+    "objectID": "proj/tubitak-daad/index.html#sections",
+    "href": "proj/tubitak-daad/index.html#sections",
+    "title": "Project (Template)",
+    "section": "Sections",
+    "text": "Sections\n\nTeam\nPublications\nCode & Data\nOutputs"
+  },
+  {
+    "objectID": "proj/tubitak-daad/code-data.html",
+    "href": "proj/tubitak-daad/code-data.html",
+    "title": "Code & Data",
+    "section": "",
+    "text": "GitHub: https://github.com/USERNAME/REPO"
+  },
+  {
+    "objectID": "proj/tubitak-daad/code-data.html#code",
+    "href": "proj/tubitak-daad/code-data.html#code",
+    "title": "Code & Data",
+    "section": "",
+    "text": "GitHub: https://github.com/USERNAME/REPO"
+  },
+  {
+    "objectID": "proj/tubitak-daad/code-data.html#data",
+    "href": "proj/tubitak-daad/code-data.html#data",
+    "title": "Code & Data",
+    "section": "Data",
+    "text": "Data\n\nSharing: Yes/No (template)\nRepository: OSF / Zenodo (template)"
+  },
+  {
+    "objectID": "proj/tubitak-1001/publications.html",
+    "href": "proj/tubitak-1001/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "No publications yet.\n\nExample citation: (Srivastava and Klassen 2016)"
+  },
+  {
+    "objectID": "proj/tubitak-1001/publications.html#publications-template",
+    "href": "proj/tubitak-1001/publications.html#publications-template",
+    "title": "Publications",
+    "section": "",
+    "text": "No publications yet.\n\nExample citation: (Srivastava and Klassen 2016)"
+  },
+  {
+    "objectID": "proj/tubitak-1001/team.html",
+    "href": "proj/tubitak-1001/team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Name\nRole\nInstitution\nORCID\nContribution\n\n\n\n\nProf. Dr. A\nPI\nUniversity X\n0000-0000-0000-0000\nManagement, methodology\n\n\nDr. B\nResearcher\nUniversity Y\n0000-0000-0000-0000\nAnalysis, software"
+  },
+  {
+    "objectID": "proj/tubitak-1001/outputs.html",
+    "href": "proj/tubitak-1001/outputs.html",
+    "title": "Outputs",
+    "section": "",
+    "text": "Reports\nPosters / slides\nData dictionary\nDemos"
+  },
+  {
+    "objectID": "proj/tubitak-3005/index.html",
+    "href": "proj/tubitak-3005/index.html",
+    "title": "Project (Template)",
+    "section": "",
+    "text": "Project Code / Title: 125F000 – Example Title\nDuration: 24 months (01.04.2026–01.04.2028)\nTeam (name–role–institution):\n\nProf. Dr. A — PI — University X\nDr. B — Researcher — University Y\n\nPublications: Planned Q1 + conference\nCode Repository: https://github.com/USERNAME/REPO\nData Sharing: Yes (OSF/Zenodo; anonymized/synthetic)"
+  },
+  {
+    "objectID": "proj/tubitak-3005/index.html#key-information-6-items",
+    "href": "proj/tubitak-3005/index.html#key-information-6-items",
+    "title": "Project (Template)",
+    "section": "",
+    "text": "Project Code / Title: 125F000 – Example Title\nDuration: 24 months (01.04.2026–01.04.2028)\nTeam (name–role–institution):\n\nProf. Dr. A — PI — University X\nDr. B — Researcher — University Y\n\nPublications: Planned Q1 + conference\nCode Repository: https://github.com/USERNAME/REPO\nData Sharing: Yes (OSF/Zenodo; anonymized/synthetic)"
+  },
+  {
+    "objectID": "proj/tubitak-3005/index.html#sections",
+    "href": "proj/tubitak-3005/index.html#sections",
+    "title": "Project (Template)",
+    "section": "Sections",
+    "text": "Sections\n\nTeam\nPublications\nCode & Data\nOutputs"
+  },
+  {
+    "objectID": "proj/tubitak-3005/code-data.html",
+    "href": "proj/tubitak-3005/code-data.html",
+    "title": "Code & Data",
+    "section": "",
+    "text": "GitHub: https://github.com/USERNAME/REPO"
+  },
+  {
+    "objectID": "proj/tubitak-3005/code-data.html#code",
+    "href": "proj/tubitak-3005/code-data.html#code",
+    "title": "Code & Data",
+    "section": "",
+    "text": "GitHub: https://github.com/USERNAME/REPO"
+  },
+  {
+    "objectID": "proj/tubitak-3005/code-data.html#data",
+    "href": "proj/tubitak-3005/code-data.html#data",
+    "title": "Code & Data",
+    "section": "Data",
+    "text": "Data\n\nSharing: Yes/No (template)\nRepository: OSF / Zenodo (template)"
+  },
+  {
+    "objectID": "proj/tubitak-3005/outputs.html",
+    "href": "proj/tubitak-3005/outputs.html",
+    "title": "Outputs",
+    "section": "",
+    "text": "Reports\nPosters / slides\nData dictionary\nDemos"
+  },
+  {
+    "objectID": "proj/tubitak-3005/team.html",
+    "href": "proj/tubitak-3005/team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Name\nRole\nInstitution\nORCID\nContribution\n\n\n\n\nProf. Dr. A\nPI\nUniversity X\n0000-0000-0000-0000\nManagement, methodology\n\n\nDr. B\nResearcher\nUniversity Y\n0000-0000-0000-0000\nAnalysis, software"
+  },
+  {
+    "objectID": "proj/tubitak-3005/publications.html",
+    "href": "proj/tubitak-3005/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "No publications yet.\n\nExample citation: (Srivastava and Klassen 2016)"
+  },
+  {
+    "objectID": "proj/tubitak-3005/publications.html#publications-template",
+    "href": "proj/tubitak-3005/publications.html#publications-template",
+    "title": "Publications",
+    "section": "",
+    "text": "No publications yet.\n\nExample citation: (Srivastava and Klassen 2016)"
+  },
+  {
+    "objectID": "proj/tubitak-1001/code-data.html",
+    "href": "proj/tubitak-1001/code-data.html",
+    "title": "Code & Data",
+    "section": "",
+    "text": "GitHub: https://github.com/USERNAME/REPO"
+  },
+  {
+    "objectID": "proj/tubitak-1001/code-data.html#code",
+    "href": "proj/tubitak-1001/code-data.html#code",
+    "title": "Code & Data",
+    "section": "",
+    "text": "GitHub: https://github.com/USERNAME/REPO"
+  },
+  {
+    "objectID": "proj/tubitak-1001/code-data.html#data",
+    "href": "proj/tubitak-1001/code-data.html#data",
+    "title": "Code & Data",
+    "section": "Data",
+    "text": "Data\n\nSharing: Yes/No (template)\nRepository: OSF / Zenodo (template)"
+  },
+  {
+    "objectID": "proj/tubitak-1001/index.html",
+    "href": "proj/tubitak-1001/index.html",
+    "title": "Project (Template)",
+    "section": "",
+    "text": "Project Code / Title: 125F000 – Example Title\nDuration: 24 months (01.04.2026–01.04.2028)\nTeam (name–role–institution):\n\nProf. Dr. A — PI — University X\nDr. B — Researcher — University Y\n\nPublications: Planned Q1 + conference\nCode Repository: https://github.com/USERNAME/REPO\nData Sharing: Yes (OSF/Zenodo; anonymized/synthetic)"
+  },
+  {
+    "objectID": "proj/tubitak-1001/index.html#key-information-6-items",
+    "href": "proj/tubitak-1001/index.html#key-information-6-items",
+    "title": "Project (Template)",
+    "section": "",
+    "text": "Project Code / Title: 125F000 – Example Title\nDuration: 24 months (01.04.2026–01.04.2028)\nTeam (name–role–institution):\n\nProf. Dr. A — PI — University X\nDr. B — Researcher — University Y\n\nPublications: Planned Q1 + conference\nCode Repository: https://github.com/USERNAME/REPO\nData Sharing: Yes (OSF/Zenodo; anonymized/synthetic)"
+  },
+  {
+    "objectID": "proj/tubitak-1001/index.html#sections",
+    "href": "proj/tubitak-1001/index.html#sections",
+    "title": "Project (Template)",
+    "section": "Sections",
+    "text": "Sections\n\nTeam\nPublications\nCode & Data\nOutputs"
+  },
+  {
+    "objectID": "proj/tubitak-daad/outputs.html",
+    "href": "proj/tubitak-daad/outputs.html",
+    "title": "Outputs",
+    "section": "",
+    "text": "Reports\nPosters / slides\nData dictionary\nDemos"
+  },
+  {
+    "objectID": "proj/tubitak-daad/team.html",
+    "href": "proj/tubitak-daad/team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Name\nRole\nInstitution\nORCID\nContribution\n\n\n\n\nProf. Dr. A\nPI\nUniversity X\n0000-0000-0000-0000\nManagement, methodology\n\n\nDr. B\nResearcher\nUniversity Y\n0000-0000-0000-0000\nAnalysis, software"
+  },
+  {
+    "objectID": "proj/tubitak-daad/publications.html",
+    "href": "proj/tubitak-daad/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "No publications yet.\n\nExample citation: (Srivastava and Klassen 2016)"
+  },
+  {
+    "objectID": "proj/tubitak-daad/publications.html#publications-template",
+    "href": "proj/tubitak-daad/publications.html#publications-template",
+    "title": "Publications",
+    "section": "",
+    "text": "No publications yet.\n\nExample citation: (Srivastava and Klassen 2016)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This is the dedicated projects site.\nGo to Projects from the navbar."
+  }
+]

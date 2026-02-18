@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Projects – Bahadır Yüzbaşı"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+format:
+  html:
+    theme: cosmo
+    toc: true
+    smooth-scroll: true
